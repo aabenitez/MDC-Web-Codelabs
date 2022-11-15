@@ -1,2 +1,3 @@
 # mdc-101
-practice excercise of Material Design Components MDC-101 (SHRINE)
+Practice excercise of Material Design Components MDC-101 Web (SHRINE)
+official repo: https://github.com/material-components/material-components-web
